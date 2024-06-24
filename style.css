@@ -15,7 +15,9 @@ body {
 a {
   display: block;
   text-align: center;
-  margin: 0 120px 0 120px;
+  margin: 0 250px 0 250px;
+  /*border: 0 220px 0 220px;*/
+  padding: 10px;
   color:blanchedalmond;
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
