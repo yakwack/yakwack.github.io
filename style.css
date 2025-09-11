@@ -2,21 +2,22 @@ img {
   border-radius: 50px 0 50px 0  ;
   animation: bounce 2s infinite;
   margin-top: 20px;
-}
-h2 {
-  font-size: 18px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 body {
-  background: linear-gradient(to right, darkcyan, lightblue);
+  background: linear-gradient(to top, rgb(0, 68, 68), lightblue);
   font-family: 'Franklin Gothic Medium';
   color:antiquewhite;
   text-align: center;
 }
 a {
   display: block;
+  width: 400px;
   text-align: center;
-  margin: 0 350px 0 350px;
-  /*border: 0 220px 0 220px;*/
+  background-color:darkcyan;
+  margin: 0 auto;
+  border: 2px solid blanchedalmond;
+  border-radius: 2px;
   padding: 10px;
   color:blanchedalmond;
   text-decoration: none;
