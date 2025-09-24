@@ -1,2 +1,2 @@
-# Personal Page attempt. 
-### Let's see what happens
+# Profile page for Shane Terry
+### 
