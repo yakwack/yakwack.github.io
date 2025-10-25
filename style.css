@@ -25,7 +25,7 @@ body {
     color: #f7f3e9; /* Light text for contrast */
     background-image:
         linear-gradient(rgba(180, 105, 59, 0.5),rgba(32, 18, 8, 0.5)),
-        url(img/riverscenelg.jpg);
+        url(img/riverscene.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -130,8 +130,15 @@ body {
     float: left; /* This is what creates the text wrap effect */
     margin-right: 20px; /* Space between the image and the text */
 }
+.section-image-right {
+    width: 200px; /* Adjust the image size as needed */
+    height: auto;
+    border-radius: 8px; 
+    float: right; 
+    margin-left: 20px;
+}
 .section-icon {
-    width: 32px; /* Adjust the icon size as needed */
+    width: 64px; /* Adjust the icon size as needed */
     height: auto;
 }
 
